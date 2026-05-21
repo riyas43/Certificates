@@ -66,9 +66,6 @@
 ## About Me
 
 I'm **Riyas M**, an aspiring Data Analyst passionate about turning raw data into meaningful insights. These certifications reflect my commitment to continuous learning and hands-on experience in the data domain.
-
-- Focused on: Data Analysis, SQL, and Data Engineering
-
 ---
 
 > *All certificates are authentic and verifiable via their respective Certificate IDs.*
