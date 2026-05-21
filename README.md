@@ -1,6 +1,6 @@
 #  Certifications & Credentials — Riyas M
 
-> A curated collection of my professional certifications and internship credentials in the field of **Data Analytics**.
+> Acurated collection of my professional certifications and internship credentials in the field of **Data Analytics**.
 
 ---
 
