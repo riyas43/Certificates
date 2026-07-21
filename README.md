@@ -39,12 +39,21 @@
 | **Duration** | 1 hour 5 minutes |
 
 ---
+### 4. SAP_BDC — SAP Learning
 
+| Field | Details |
+|---|---|
+| **Issued by** | SAP Learning |
+| **Completed** | July 20, 2026 |
+| **Skills Covered** | Database Management, Database System, Analytics and Data Modeling |
+
+---
 ## Skills Demonstrated
 
 | Skill | Source |
 |---|---|
 | Data Analysis | ExcelR Programme + AIVariant Internship |
+| SAP Business Data Cloud | SAP Learning |
 | SQL for Data Analysis | LinkedIn Learning |
 | Data Engineering | LinkedIn Learning |
 | Project-based Learning | AIVariant Internship |
@@ -58,6 +67,7 @@
  ┣ 📄 DA_Intern_certi.pdf               # AIVariant Internship Certificate
  ┣ 📄 Riyas_M_DA_certificate.pdf        # ExcelR Certificate of Excellence
  ┣ 📄 SQL_for_Data_Analysis_Certificate.pdf  # LinkedIn Learning SQL Certificate
+ ┣ 📄 SAP_BDC_certificate.pdf               # SAP Learning Certificate
  ┗ 📄 README.md
 ```
 
